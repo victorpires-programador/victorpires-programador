@@ -12,9 +12,9 @@
 | ![][card_stats] | ![][card_langs] |
 | :-------------- | :-------------- |
 
-
 | ![][card_commit] | 
 | :--------------- |
+![snake gif](https://github.com/victorpires-programador/.github/workflows/snake.yml/blob/output/github-contribution-grid-snake.svg)
 
 ## 🚀 Sobre Mim
 
