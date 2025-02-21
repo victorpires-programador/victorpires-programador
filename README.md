@@ -33,8 +33,8 @@
 ### [SharkBank](https://github.com/victorpires-programador/SharkBank)
 Um simulador bancário, com todas as funções de um banco tradicional.
 
-### [PowerTech](https://github.com/victorpires-programador/PowerTech)
-Um site feito utilizando HTML e CSS para uma empresa de informática.
+### [ZapTalker](https://github.com/victorpires-programador/whatsappbot-zaptalker)
+Um bot simples feito utilizando Node.js para Whatsapp com autenticação automática.
 
 
 <!--| ![][card_streak] |
