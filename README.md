@@ -33,8 +33,8 @@
 ### [SharkBank](https://github.com/victorpires-programador/SharkBank)
 Um simulador bancário, com todas as funções de um banco tradicional.
 
-### [ZapTalker](https://github.com/victorpires-programador/whatsappbot-zaptalker)
-Um bot simples feito utilizando Node.js para Whatsapp com autenticação automática.
+### [ZapTalker](https://github.com/victorpires-programador/whatsappbot-orderflow)
+Um bot feito utilizando Node.js para Whatsapp com autenticação e vendas automática.
 
 
 <!--| ![][card_streak] |
