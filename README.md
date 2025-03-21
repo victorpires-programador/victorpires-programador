@@ -24,7 +24,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens:** C#, C++, Arduino, SQL Server, PostgreSQL, HTML, CSS, JavaScript e conhecimentos básicos em LUA
-- **Frameworks:** .NET Core,.NET Framework, ASP.NET
+- **Frameworks:** .NET Core, .NET Framework, ASP.NET
 - **Ferramentas:** Visual Studio, VSCode, SublimeText, CMake, Github
 - **Banco de Dados:** SQL Server, PostgreSQL, HeidiSQL
 
