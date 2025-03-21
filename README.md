@@ -17,7 +17,7 @@
 
 ## 🚀 Sobre Mim
 
-- 💼 Tenho experiência com desenvolvimento de sistemas em C#, .NET Framework e ASP.NET Core.
+- 💼 Tenho experiência com desenvolvimento de sistemas em C#, .NET Framework, .NET, ASP.NET Core.
 - 💬 Estou sempre aberto a conversar sobre tecnologias, programação e inovações no mundo da TI.
 - 📫 Como me encontrar: [victorprofissional.ti@outlook](mailto:victorprofissional.ti@outlook.com)
 
