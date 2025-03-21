@@ -19,7 +19,7 @@
 
 - 💼 Tenho experiência com desenvolvimento de sistemas em C#, .NET Framework, .NET, ASP.NET Core.
 - 💬 Estou sempre aberto a conversar sobre tecnologias, programação e inovações no mundo da TI.
-- 📫 Como me encontrar: [victorprofissional.ti@outlook](mailto:victorprofissional.ti@outlook.com)
+- 📫 Como me encontrar: [victorprofissional.ti@outlook.com](mailto:victorprofissional.ti@outlook.com)
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -33,7 +33,7 @@
 ### [SharkBank](https://github.com/victorpires-programador/SharkBank)
 Um simulador bancário, com todas as funções de um banco tradicional.
 
-### [ZapTalker](https://github.com/victorpires-programador/whatsappbot-orderflow)
+### [OrderFlow](https://github.com/victorpires-programador/whatsappbot-orderflow)
 Um bot feito utilizando Node.js para Whatsapp com autenticação e vendas automática.
 
 
